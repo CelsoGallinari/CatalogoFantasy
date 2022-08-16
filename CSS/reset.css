@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+  }
+  #ps2 {
+    width: 25%;
+    height: 350px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+  }
+  
+  #xbox360 {
+    width: 25%;
+    height: 350px;
+    padding: 50px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+  }
+  #ps4{
+    width: 25%;
+    height: 350px;
+    padding: 50px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+  }
+  #xboxone {
+    width: 25%;
+    height: 350px;
+    padding: 50px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    
+  }
+  .body {
+    width: 100%;
+    float: left;
+  }
