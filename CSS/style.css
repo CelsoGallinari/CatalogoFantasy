@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  h3{
+    font-size: 200%;
+    color: white;
+    text-decoration: none;
+  }
+  body{
+    background-color: rgb(255, 129, 38);
+    box-sizing: border-box;
+    text-align: center;
+  }
+  #ps2 {
+    width: 40%;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    text-align: center;
+  }
+  
+  #xbox360 {
+    width: 40%;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    text-align: center;
+  }
+  #ps4{
+    width: 40%;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    text-align: center;
+  }
+  #xboxone {
+    width: 40%;
+    box-sizing: border-box;
+    padding: 20px;
+    
+    text-align: center;
+  }
+  #texto{
+    font-weight: bold;
+    font-size: 200%;
+    color: white;
+  }
+  header{
+    background-color: black;
+    
+  }
+  a:link { text-decoration: none; }
